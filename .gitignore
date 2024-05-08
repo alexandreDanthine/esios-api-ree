@@ -1,7 +1,6 @@
 credentials.json
 tutorial*
 video*
-esios.py
 __pycache__/
 .DS_Store
 .ipynb_checkpoints/
